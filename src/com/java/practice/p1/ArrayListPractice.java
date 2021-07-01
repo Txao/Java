@@ -12,7 +12,7 @@ public class ArrayListPractice {
 
         list.remove(5);
 
-        System.out.println(list);
-        System.out.println(list.size());
+        //System.out.println(list);
+        //System.out.println(list.size());
     }
 }
